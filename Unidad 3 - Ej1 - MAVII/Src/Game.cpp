@@ -65,9 +65,7 @@ void Game::DoEvents()
 }
 
 void Game::CheckCollitions()
-{
-    // Implementación de la comprobación de colisiones
-}
+{}
 
 // Configuración de la vista del juego
 void Game::SetZoom()
@@ -83,7 +81,7 @@ void Game::SetZoom()
 void Game::InitPhysics()
 {
 
-    phyWorld = new b2World(b2Vec2(0.0f, 9.8f));
+    phyWorld = new b2World(b2Vec2(0.0f, 0.0f));
 
     // Crear un renderer de debug para visualizar el mundo físico
     debugRender = new SFMLRenderer(wnd);
@@ -122,6 +120,8 @@ void Game::InitPhysics()
     // Creo pelota
     pelotaBody = Box2DHelper::CreateCircularDynamicBody(phyWorld, 5, 1.0f, 0.0, 1.0f);
     pelotaBody->SetTransform(b2Vec2(50.0f, 20.0f), 0.0f);
+
+    pelotaBody->SetLinearVelocity(b2Vec2(10.f, 15.f));
 
 }
 

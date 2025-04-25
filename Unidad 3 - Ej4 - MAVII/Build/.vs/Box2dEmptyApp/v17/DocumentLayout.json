@@ -1,18 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\JulioCZ\\Downloads\\Ejercicios Unidad 3\\Unidad 3 - Ej4 - MAVII\\Build\\",
+  "WorkspaceRootPath": "C:\\Users\\JulioCZ\\Documents\\2 - Cuatri_1\\MAVII\\U3\\Ejercicios Unidad 3\\Unidad 3 - Ej4 - MAVII\\Build\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JulioCZ\\Downloads\\Ejercicios Unidad 3\\Unidad 3 - Ej4 - MAVII\\Box2dFirstApp\\Src\\Box2dEmptyApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{96C674D7-9E95-4F51-966C-1A0545981942}|Box2dEmptyApp.vcxproj|C:\\Users\\JulioCZ\\Documents\\2 - Cuatri_1\\MAVII\\U3\\Ejercicios Unidad 3\\Unidad 3 - Ej4 - MAVII\\Src\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JulioCZ\\Downloads\\Ejercicios Unidad 3\\Unidad 3 - Ej4 - MAVII\\Box2dFirstApp\\Src\\SFMLRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JulioCZ\\Downloads\\Ejercicios Unidad 3\\Unidad 3 - Ej4 - MAVII\\Box2dFirstApp\\Src\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JulioCZ\\Downloads\\Ejercicios Unidad 3\\Unidad 3 - Ej4 - MAVII\\Box2dFirstApp\\Src\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{96C674D7-9E95-4F51-966C-1A0545981942}|Box2dEmptyApp.vcxproj|C:\\Users\\JulioCZ\\Documents\\2 - Cuatri_1\\MAVII\\U3\\Ejercicios Unidad 3\\Unidad 3 - Ej4 - MAVII\\Src\\Box2dEmptyApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,54 +16,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SFMLRenderer.cpp",
-              "DocumentMoniker": "C:\\Users\\JulioCZ\\Downloads\\Ejercicios Unidad 3\\Unidad 3 - Ej4 - MAVII\\Box2dFirstApp\\Src\\SFMLRenderer.cpp",
-              "RelativeDocumentMoniker": "..\\Box2dFirstApp\\Src\\SFMLRenderer.cpp",
-              "ToolTip": "C:\\Users\\JulioCZ\\Downloads\\Ejercicios Unidad 3\\Unidad 3 - Ej4 - MAVII\\Box2dFirstApp\\Src\\SFMLRenderer.cpp",
-              "RelativeToolTip": "..\\Box2dFirstApp\\Src\\SFMLRenderer.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-14T20:14:12.138Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Box2dEmptyApp.cpp",
-              "DocumentMoniker": "C:\\Users\\JulioCZ\\Downloads\\Ejercicios Unidad 3\\Unidad 3 - Ej4 - MAVII\\Box2dFirstApp\\Src\\Box2dEmptyApp.cpp",
-              "RelativeDocumentMoniker": "..\\Box2dFirstApp\\Src\\Box2dEmptyApp.cpp",
-              "ToolTip": "C:\\Users\\JulioCZ\\Downloads\\Ejercicios Unidad 3\\Unidad 3 - Ej4 - MAVII\\Box2dFirstApp\\Src\\Box2dEmptyApp.cpp",
-              "RelativeToolTip": "..\\Box2dFirstApp\\Src\\Box2dEmptyApp.cpp",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-14T20:13:57.217Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Game.cpp",
-              "DocumentMoniker": "C:\\Users\\JulioCZ\\Downloads\\Ejercicios Unidad 3\\Unidad 3 - Ej4 - MAVII\\Box2dFirstApp\\Src\\Game.cpp",
-              "RelativeDocumentMoniker": "..\\Box2dFirstApp\\Src\\Game.cpp",
-              "ToolTip": "C:\\Users\\JulioCZ\\Downloads\\Ejercicios Unidad 3\\Unidad 3 - Ej4 - MAVII\\Box2dFirstApp\\Src\\Game.cpp",
-              "RelativeToolTip": "..\\Box2dFirstApp\\Src\\Game.cpp",
-              "ViewState": "AgIAAFQAAAAAAAAAAAASwFcAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\JulioCZ\\Documents\\2 - Cuatri_1\\MAVII\\U3\\Ejercicios Unidad 3\\Unidad 3 - Ej4 - MAVII\\Src\\Game.cpp",
+              "RelativeDocumentMoniker": "..\\Src\\Game.cpp",
+              "ToolTip": "C:\\Users\\JulioCZ\\Documents\\2 - Cuatri_1\\MAVII\\U3\\Ejercicios Unidad 3\\Unidad 3 - Ej4 - MAVII\\Src\\Game.cpp",
+              "RelativeToolTip": "..\\Src\\Game.cpp",
+              "ViewState": "AgIAAFcAAAAAAAAAAAASwFoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-14T20:13:40.62Z"
+              "WhenOpened": "2025-04-25T03:26:04.178Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Game.h",
-              "DocumentMoniker": "C:\\Users\\JulioCZ\\Downloads\\Ejercicios Unidad 3\\Unidad 3 - Ej4 - MAVII\\Box2dFirstApp\\Src\\Game.h",
-              "RelativeDocumentMoniker": "..\\Box2dFirstApp\\Src\\Game.h",
-              "ToolTip": "C:\\Users\\JulioCZ\\Downloads\\Ejercicios Unidad 3\\Unidad 3 - Ej4 - MAVII\\Box2dFirstApp\\Src\\Game.h",
-              "RelativeToolTip": "..\\Box2dFirstApp\\Src\\Game.h",
-              "ViewState": "AgIAAAoAAAAAAAAAAAASwBkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-14T20:09:42.444Z"
+              "DocumentIndex": 1,
+              "Title": "Box2dEmptyApp.cpp",
+              "DocumentMoniker": "C:\\Users\\JulioCZ\\Documents\\2 - Cuatri_1\\MAVII\\U3\\Ejercicios Unidad 3\\Unidad 3 - Ej4 - MAVII\\Src\\Box2dEmptyApp.cpp",
+              "RelativeDocumentMoniker": "..\\Src\\Box2dEmptyApp.cpp",
+              "ToolTip": "C:\\Users\\JulioCZ\\Documents\\2 - Cuatri_1\\MAVII\\U3\\Ejercicios Unidad 3\\Unidad 3 - Ej4 - MAVII\\Src\\Box2dEmptyApp.cpp",
+              "RelativeToolTip": "..\\Src\\Box2dEmptyApp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T03:25:15.141Z",
+              "EditorCaption": ""
             }
           ]
         }

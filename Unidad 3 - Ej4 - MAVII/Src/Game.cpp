@@ -87,7 +87,7 @@ void Game::SetZoom()
 void Game::InitPhysics()
 {
     // Inicializar el mundo físico con la gravedad por defecto
-    phyWorld = new b2World(b2Vec2(0.0f, 9.8f));
+    phyWorld = new b2World(b2Vec2(0.0f, 0.0f));
 
     // Crear un renderer de debug para visualizar el mundo físico
     debugRender = new SFMLRenderer(wnd);
