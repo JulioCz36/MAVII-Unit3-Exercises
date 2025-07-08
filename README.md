@@ -1,37 +1,35 @@
-# Guía Práctica – Resortes, Cuerpos Blandos y Ragdolls 🌀
+# Practical Guide – Springs, Soft Bodies and Ragdolls 🌀
 
-Ejercicios desarrollados para el primer trabajo práctico de la materia **MAVII**. En esta guía se exploran mecánicas físicas avanzadas usando Box2D, incluyendo resortes, interacciones suaves y construcción de ragdolls.
+Exercises developed for the first practical assignment of the **MAVII** course. This guide explores advanced physics mechanics using Box2D, including springs, soft interactions, and ragdoll construction.
 
-## ⚙️ Tecnologías
+## ⚙️ Technologies
 
 - C++
 - SFML
 - Box2D
 
-## 📚 Ejercicios
+## 📚 Exercises
 
-### 🏀 Ejercicio 1 – Pelota rebotando
+### 🏀 Exercise 1 – Bouncing ball
 
-Simula una pelota que rebota en todos los bordes de la pantalla, aplicando la ley de elasticidad vista en clase. Ideal para comprender el coeficiente de restitución y colisiones básicas.
+Simulates a ball bouncing off all edges of the screen, applying the elasticity law covered in class. Ideal for understanding the coefficient of restitution and basic collisions.
 
-### 🔗 Ejercicio 2 – Pelotas unidas por un resorte
+### 🔗 Exercise 2 – Balls connected by a spring
 
-Dos pelotas dinámicas conectadas por un `b2DistanceJoint` con efecto de resorte. El usuario puede agarrar y mover cualquiera de ellas con el mouse.
+Two dynamic balls connected by a b2DistanceJoint with a spring effect. The user can grab and move either ball with the mouse.
 
-### 🎯 Ejercicio 3 – Pelota unida a punto fijo
+### 🎯 Exercise 3 – Ball attached to a fixed point
 
-Simulación de una pelota unida por un resorte a un punto fijo en la escena. Se observa el comportamiento de amortiguación y oscilación.
+Simulation of a ball attached by a spring to a fixed point in the scene. Demonstrates damping and oscillation behavior.
 
-### 🕹️ Ejercicio 4 – Cuadrado controlado por el jugador
+### 🕹️ Exercise 4 – Player-controlled square
 
-Un cuadrado dinámico que puede moverse mediante fuerzas con las teclas de dirección. Sirve para experimentar con input, fuerzas aplicadas y fricción.
+A dynamic square that can be moved by applying forces using the arrow keys. Useful for experimenting with user input, applied forces, and friction.
 
-### 🧍 Ejercicio 5 – Ragdoll
+### 🧍 Exercise 5 – Ragdoll
 
-Simulación física de un personaje construido con cajas que representan la cabeza, torso, brazos y piernas. Las partes están unidas mediante joints (revolute y distance) para simular un cuerpo articulado realista.
+A physical simulation of a character built from boxes representing the head, torso, arms, and legs. The parts are connected with joints (revolute and distance) to simulate a realistic articulated body.
 
 ## 👨‍💻 Autor
 
-**JulioCZ**  
-1° Cuatrimestre – Año 2025  
-Tecnicatura en Diseño y Programación de Videojuegos
+**JulioCZ** - Technical Degree in Video Game Design and Programming

@@ -1,9 +1,0 @@
-﻿  Box2dEmptyApp.cpp
-  Game.cpp
-C:\Users\JulioCZ\Documents\2 - Cuatri_1\MAVII\U3\Ejercicios Unidad 3\Unidad 3 - Ej2 - MAVII\Src\Game.cpp(73,25): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\JulioCZ\Documents\2 - Cuatri_1\MAVII\U3\Ejercicios Unidad 3\Unidad 3 - Ej2 - MAVII\Src\Game.cpp(82,26): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-  SFMLRenderer.cpp
-C:\Users\JulioCZ\Documents\2 - Cuatri_1\MAVII\U3\Ejercicios Unidad 3\Unidad 3 - Ej2 - MAVII\Src\SFMLRenderer.cpp(121,25): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\JulioCZ\Documents\2 - Cuatri_1\MAVII\U3\Ejercicios Unidad 3\Unidad 3 - Ej2 - MAVII\Src\SFMLRenderer.cpp(121,22): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
-  Generando código...
-  Box2dEmptyApp.vcxproj -> C:\Users\JulioCZ\Documents\2 - Cuatri_1\MAVII\U3\Ejercicios Unidad 3\Unidad 3 - Ej2 - MAVII\Bin\Debug\Box2dEmptyApp.exe
