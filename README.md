@@ -1,4 +1,4 @@
-# Practical Guide – Springs, Soft Bodies and Ragdolls 🌀
+# 🌀 Unit 3 Practice | MAVII
 
 Exercises developed for the first practical assignment of the **MAVII** course. This guide explores advanced physics mechanics using Box2D, including springs, soft interactions, and ragdoll construction.
 
